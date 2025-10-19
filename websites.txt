@@ -1,4 +1,5 @@
 *
++raw.githubusercontent.com/AvinZarlez/allowed-websites
 +accounts.google.com
 +apple.com
 +b-part.org
