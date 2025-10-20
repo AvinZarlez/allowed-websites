@@ -1,4 +1,5 @@
 *
++github.com/AvinZarlez/allowed-websites/
 +raw.githubusercontent.com/AvinZarlez/allowed-websites
 +accounts.google.com
 +amiralearning.com
