@@ -1,0 +1,19 @@
+{
+  "policies": {
+    "Extensions": {
+      "Locked":  ["leechblockng@proginosko.com"]
+    },
+    "ExtensionSettings": {
+      "leechblockng@proginosko.com": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/lee>
+        "private_browsing": true
+      },
+      "uBlock0@raymondhill.net": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ubl>
+        "private_browsing": true
+      }
+    }
+  }
+}
