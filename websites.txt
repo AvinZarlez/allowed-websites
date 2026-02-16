@@ -34,6 +34,7 @@
 +timeforkids.com
 +twigscience.com
 +wikipedia.org
++wikimedia.org
 +workspace.google.com/
 +xboxlive.com
 +zoom.com
