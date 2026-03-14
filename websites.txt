@@ -1,9 +1,10 @@
 *
-+github.com/AvinZarlez/allowed-websites/
-+raw.githubusercontent.com/AvinZarlez/allowed-websites
++github.com/AvinZarlez
++raw.githubusercontent.com/AvinZarlez
 +accounts.google.com
 +amiralearning.com
 +apple.com
++avinzarlez.com
 +b-part.org
 +blender.org
 +brainingcamp.com
