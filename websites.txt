@@ -25,6 +25,7 @@
 +marriott.com
 +max.com
 +minecraft.net
++music.youtube.com
 +netflix.com
 +pbskids.org
 +puzzmo.com
