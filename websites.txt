@@ -16,6 +16,7 @@
 +ellevationeducation.com
 +escolar.eb.com
 +howstuffworks.com
++hulu.com
 +inkwellgames.com
 +istation.com
 +jackbox.tv
@@ -37,6 +38,7 @@
 +timeforkids.com
 +twigscience.com
 +wikipedia.org
++whatsapp.com
 +wikimedia.org
 +workspace.google.com/
 +xboxlive.com
