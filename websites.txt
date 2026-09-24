@@ -12,6 +12,7 @@
 +clever.com
 +dreambox.com
 +drive.google.com
++docs.google.com
 +edu.google.com
 +ellevationeducation.com
 +escolar.eb.com
